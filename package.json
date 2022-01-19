@@ -1,0 +1,17 @@
+{
+  "name": "test-parcel",
+  "packageManager": "yarn@3.1.1",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "@parcel/config-default": "^2.2.1",
+    "@parcel/core": "^2.2.1"
+  }
+}
