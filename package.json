@@ -1,7 +1,10 @@
 {
-  "name": "test-parcel",
+  "name": "parcel-template",
+  "description": "Parcel template",
   "packageManager": "yarn@3.1.1",
   "source": "src/index.html",
+  "author": "Agung Kurniadi",
+  "repository": "https://github.com/kurniad-sign/parcel-template",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
